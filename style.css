@@ -1,0 +1,14 @@
+/* selettore
+       proprietà: valore;
+       proprietà: valore;
+       */
+body {
+  margin: 0;
+  height: 100%;
+  background-image: url("CodingChallenge.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: fixed;
+  background-color: black;
+}
